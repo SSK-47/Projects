@@ -1,1 +1,1 @@
-This code is of a Car Parking System built using Arduino and ESP sensors
+### Smart Car Parking System using Arduino, ESP8266 NodeMCU, and Blynk Server
