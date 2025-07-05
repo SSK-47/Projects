@@ -1,1 +1,1 @@
-This code consists of a Car Parking System using Arduino and ESP sensors
+This code is of a Car Parking System built using Arduino and ESP sensors
