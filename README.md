@@ -1,1 +1,1 @@
-This is a tailor shop management system
+This code consists of a Car Parking System using Arduino and ESP sensors
